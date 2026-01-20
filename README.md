@@ -160,8 +160,8 @@ Crammy transforms ordinary study materials into interactive, bite-sized knowledg
 
 ## 👨‍💻 Developer
 
-**Your Name**  
-Mobile Application Development 1  
+**Eljohn Molina**  
+Application Development and Emerging Technologies 	 
 Pangasinan State University - Urdaneta City Campus
 
 ---
