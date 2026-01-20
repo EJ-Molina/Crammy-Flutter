@@ -139,7 +139,22 @@ Crammy transforms ordinary study materials into interactive, bite-sized knowledg
 
 ## 📸 Screenshots
 
-Screenshots are available in the `assets/screenshots` folder.
+<p align="center">
+	<img src="assets/images/screenshots/Picture1.jpg" alt="Screenshot 1" width="250"/>
+	<img src="assets/images/screenshots/Picture2.jpg" alt="Screenshot 2" width="250"/>
+	<img src="assets/images/screenshots/Picture3.jpg" alt="Screenshot 3" width="250"/>
+	<img src="assets/images/screenshots/Picture4.jpg" alt="Screenshot 4" width="250"/>
+	<img src="assets/images/screenshots/Picture5.jpg" alt="Screenshot 5" width="250"/>
+	<img src="assets/images/screenshots/Picture6.jpg" alt="Screenshot 6" width="250"/>
+	<img src="assets/images/screenshots/Picture7.jpg" alt="Screenshot 7" width="250"/>
+	<img src="assets/images/screenshots/Picture8.jpg" alt="Screenshot 8" width="250"/>
+	<img src="assets/images/screenshots/Picture9.jpg" alt="Screenshot 9" width="250"/>
+	<img src="assets/images/screenshots/Picture10.jpg" alt="Screenshot 10" width="250"/>
+	<img src="assets/images/screenshots/Picture11.jpg" alt="Screenshot 11" width="250"/>
+	<img src="assets/images/screenshots/Picture12.jpg" alt="Screenshot 12" width="250"/>
+	<img src="assets/images/screenshots/Picture13.jpg" alt="Screenshot 13" width="250"/>
+	<img src="assets/images/screenshots/Picture14.jpg" alt="Screenshot 14" width="250"/>
+</p>
 
 ---
 
